@@ -33,6 +33,8 @@ Technology Stack
 • matplotlib
 
 Database Tables
+![Alt text](transaction.png)
+
 
 • transactions – validated core banking transactions
 • rejected_transactions – audit and compliance records
